@@ -1,0 +1,28 @@
+# ---- MATLAB ----
+*.asv
+slprj/
+*.mex*
+*.autosave
+
+# ---- 论文与投稿材料（版权归出版方，不公开）----
+*.pdf
+*录用通知*
+*CopyrightReceipt*
+CopyrightReceipt*
+Response_Letter*
+
+# ---- Office ----
+*.docx
+*.doc
+*.pptx
+*.xlsx
+
+# ---- 压缩包 ----
+*.zip
+*.rar
+*.7z
+
+# ---- 系统 ----
+.DS_Store
+Thumbs.db
+desktop.ini
